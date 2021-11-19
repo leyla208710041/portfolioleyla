@@ -80,7 +80,7 @@ color: black;
     address ankara 1/8
 </h3>
 <p> I'm creating my new style.</p>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fkrinzhovyie_avatarki_1_8193765&psig=AOvVaw1WQW4nQ4YAUI-c5gzTxFaw&ust=1637397822989000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCJi0xLGEpPQCFQAAAAAdAAAAABAJ" alt='
+<img src="https://f1.upet.com/A_r2u6uZhnxA_x.jpg" alt='
 ' style=''>
 <form action='' target='_blank'>
 <button class="button button1">Github</button>
